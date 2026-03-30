@@ -31,3 +31,7 @@ highlight exactly which facial regions triggered the detection.
 ## Author
 
 Muhammad Furqan Rauf — AI-15 Bootcamp, Computer Vision Module
+
+## Deployed Link
+https://vulturelike-unprecipitously-jovani.ngrok-free.dev/
+
